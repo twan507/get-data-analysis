@@ -1,0 +1,17 @@
+# ==========================================
+# CẤU HÌNH CHO PYRIGHT (PYLANCE)
+# ==========================================
+[tool.pyright]
+
+# Yêu cầu 1: Bỏ qua lỗi check type
+typeCheckingMode = "off"
+reportMissingImports = "none"
+reportUndefinedVariable = "none"
+reportMissingModuleSource = "none"
+
+# ==========================================
+# CẤU HÌNH CHO RUFF
+# ==========================================
+[tool.ruff]
+[tool.ruff.per-file-ignores]
+"**/*" = ["ALL"]
