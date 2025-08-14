@@ -55,28 +55,7 @@ def transform_to_long_format(df):
     parsed_cols = df_long['indicator_full'].apply(lambda x: pd.Series(parse_indicator(x), index=['name', 'period', 'unit']))
     df_long = pd.concat([df_long, parsed_cols], axis=1)
 
-    # --- 4. Chuẩn hóa đơn vị và giá trị (Phần linh hoạt nhất) ---
-    # Từ điển định nghĩa các quy tắc chuyển đổi. Dễ dàng mở rộng.
-    unit_map = {
-        'Nghìn VND': {'multiplier': 1000, 'new_unit': 'VND'},
-        'Tỷ VND':   {'multiplier': 1_000_000_000, 'new_unit': 'VND'},
-    }
-
-    def adjust_value_and_unit(row):
-        unit = row['unit']
-        value = row['value']
-        
-        if unit in unit_map:
-            rule = unit_map[unit]
-            new_value = value * rule['multiplier']
-            new_unit = rule['new_unit']
-            return pd.Series([new_value, new_unit])
-        
-        return pd.Series([value, unit]) # Trả về giá trị và đơn vị gốc nếu không có quy tắc
-
-    df_long[['value', 'unit']] = df_long.apply(adjust_value_and_unit, axis=1)
-
-    # --- 5. Hoàn thiện DataFrame cuối cùng ---
+    # --- 4. Hoàn thiện DataFrame cuối cùng ---
     final_df = df_long[['ticker', 'industry', 'name', 'period', 'unit', 'value']].copy()
     
     return final_df
