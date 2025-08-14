@@ -9,7 +9,7 @@ from import_other import *
 
 
 # ==============================================================================
-# 2. CÁC HÀM TIỆN ÍCH VÀ CHUẨN BỊ DỮ LIỆU
+# 1. CÁC HÀM TIỆN ÍCH VÀ CHUẨN BỊ DỮ LIỆU
 # ==============================================================================
 
 
@@ -40,7 +40,7 @@ def _get_style_for_column(col_name):
 
 
 # ==============================================================================
-# 3. CÁC HÀM VẼ CÁC THÀNH PHẦN CỦA BIỂU ĐỒ
+# 2. CÁC HÀM VẼ CÁC THÀNH PHẦN CỦA BIỂU ĐỒ
 # ==============================================================================
 
 
@@ -205,7 +205,7 @@ def _add_rsi_chart(fig, df, config):
 
 
 # ==============================================================================
-# 4. HÀM XỬ LÝ NHÃN GIÁ (ANNOTATIONS) - LOGIC MỚI
+# 3. HÀM XỬ LÝ NHÃN GIÁ (ANNOTATIONS) - LOGIC MỚI
 # ==============================================================================
 
 
@@ -290,7 +290,7 @@ def _process_and_add_annotations(fig, df, line_info, symbol_name, config):
 
 
 # ==============================================================================
-# 5. CÁC HÀM CẤU HÌNH LAYOUT VÀ TRỤC
+# 4. CÁC HÀM CẤU HÌNH LAYOUT VÀ TRỤC
 # ==============================================================================
 
 
@@ -412,7 +412,7 @@ def _generate_xaxis_ticks(df):
 
 
 # ==============================================================================
-# 6. HÀM CHÍNH TỔNG HỢP (ORCHESTRATION FUNCTION)
+# 5. HÀM CHÍNH TỔNG HỢP (ORCHESTRATION FUNCTION)
 # ==============================================================================
 def create_chart_config(title_font_size, axis_font_size, tag_font_size, price_tag_font_size, min_spacing_ratio, margin):
     return {
