@@ -12,32 +12,27 @@ def transform_to_long_format(df):
     # --- 1. Làm sạch tên cột định danh ---
     # Giả định 4 cột đầu tiên luôn là cột định danh
     id_cols = df.columns[:4]
-    new_id_cols = {
-        id_cols[0]: 'ticker',
-        id_cols[1]: 'company_name',
-        id_cols[2]: 'exchange',
-        id_cols[3]: 'industry'
-    }
+    new_id_cols = {id_cols[0]: "ticker", id_cols[1]: "company_name", id_cols[2]: "exchange", id_cols[3]: "industry"}
     df.rename(columns=new_id_cols, inplace=True)
 
     # --- 2. Chuyển đổi từ wide sang long format ---
     id_vars = list(new_id_cols.values())
     value_vars = df.columns[4:]
-    df_long = pd.melt(df, id_vars=id_vars, value_vars=value_vars, var_name='indicator_full', value_name='value')
-    
+    df_long = pd.melt(df, id_vars=id_vars, value_vars=value_vars, var_name="indicator_full", value_name="value")
+
     # Loại bỏ các dòng có giá trị rỗng để tối ưu hóa xử lý
-    df_long.dropna(subset=['value'], inplace=True)
+    df_long.dropna(subset=["value"], inplace=True)
 
     # --- 3. Trích xuất thông tin từ cột phức hợp ---
     def parse_indicator(indicator_full):
-        parts = indicator_full.strip().split('\n')
+        parts = indicator_full.strip().split("\n")
         name = parts[0] if len(parts) > 0 else None
-        
+
         # Tìm period (Ngày hoặc Quý)
-        period_str = ' '.join(parts[1:])
-        date_match = re.search(r'(\d{4}-\d{2}-\d{2})', period_str)
-        quarter_match = re.search(r'(Q\d-\d{4})', period_str)
-        
+        period_str = " ".join(parts[1:])
+        date_match = re.search(r"(\d{4}-\d{2}-\d{2})", period_str)
+        quarter_match = re.search(r"(Q\d-\d{4})", period_str)
+
         period = None
         if date_match:
             period = pd.to_datetime(date_match.group(1))
@@ -47,18 +42,19 @@ def transform_to_long_format(df):
             period = "N/A"
 
         # Tìm unit
-        unit_str = parts[-1] if 'Đơn vị:' in parts[-1] else None
-        unit = unit_str.replace('Đơn vị:', '').strip() if unit_str else None
-        
+        unit_str = parts[-1] if "Đơn vị:" in parts[-1] else None
+        unit = unit_str.replace("Đơn vị:", "").strip() if unit_str else None
+
         return name, period, unit
 
-    parsed_cols = df_long['indicator_full'].apply(lambda x: pd.Series(parse_indicator(x), index=['name', 'period', 'unit']))
+    parsed_cols = df_long["indicator_full"].apply(lambda x: pd.Series(parse_indicator(x), index=["name", "period", "unit"]))
     df_long = pd.concat([df_long, parsed_cols], axis=1)
 
     # --- 4. Hoàn thiện DataFrame cuối cùng ---
-    final_df = df_long[['ticker', 'industry', 'name', 'period', 'unit', 'value']].copy()
-    
+    final_df = df_long[["ticker", "industry", "name", "period", "unit", "value"]].copy()
+
     return final_df
+
 
 def get_open_excel_workbooks():
     """
@@ -73,48 +69,49 @@ def get_open_excel_workbooks():
     except:
         return []
 
+
 def get_financial_statements(stock, year, quarter, period_count, file_name="workbook.xlsx"):
     """
     Lấy dữ liệu báo cáo tài chính từ Excel sử dụng FA functions
-    
+
     Parameters:
     - stock: mã cổ phiếu (str)
     - year: năm (str hoặc int)
     - quarter: quý (str hoặc int)
     - period_count: số kỳ (str hoặc int)
     - file_name: tên file Excel (str, mặc định "workbook.xlsx")
-    
+
     Returns:
     - fs_dict: dictionary chứa DataFrame cho từng loại báo cáo
     """
-    
+
     # Khởi tạo dictionary để lưu kết quả
-    report_list = ['IncomeStatement', 'BalanceSheet', 'CashFlow']
-    fs_dict = {
-        'IncomeStatement': {},
-        'BalanceSheet': {},
-        'CashFlow': {}
-    }
-    
+    report_list = ["IncomeStatement", "BalanceSheet", "CashFlow"]
+    fs_dict = {"IncomeStatement": {}, "BalanceSheet": {}, "CashFlow": {}}
+
+    excel = None
+    workbook = None
+    worksheet = None
+
     try:
         # Kết nối với Excel đang mở
         open_workbooks = get_open_excel_workbooks()
         excel = win32com.client.GetActiveObject("Excel.Application")
         excel.Visible = True  # Đảm bảo Excel hiển thị để kiểm tra
-        
+
         # Duyệt qua danh sách báo cáo
         if file_name in open_workbooks:
             workbook = excel.Workbooks(file_name)
             worksheet = workbook.ActiveSheet
-            
+
             for report_name in report_list:
                 while True:
                     try:
                         worksheet.UsedRange.ClearContents()  # Xóa nội dung và công thức
-                        worksheet.UsedRange.ClearFormats()   # Xóa định dạng để loại bỏ spill range cũ
+                        worksheet.UsedRange.ClearFormats()  # Xóa định dạng để loại bỏ spill range cũ
 
                         worksheet.Range("A1").Formula2 = f'=FA.{report_name}.Reports("{stock}",{year},{quarter},{period_count},1000000)'
-                        
+
                         # **Đọc dữ liệu từ UsedRange**
                         used_range = worksheet.UsedRange
                         rows = used_range.Rows.Count
@@ -143,8 +140,26 @@ def get_financial_statements(stock, year, quarter, period_count, file_name="work
                 fs_dict[report_name] = temp_df
         else:
             print(f"Workbook '{file_name}' không được tìm thấy trong danh sách workbook đang mở.")
-            
+
     except Exception as e:
         print(f"Lỗi khi kết nối với Excel: {e}")
-    
+
+    finally:
+        # Dọn dẹp các tiến trình ngầm và COM objects chỉ của workbook cụ thể
+        try:
+            # Chỉ giải phóng các reference của workbook đang làm việc
+            if worksheet:
+                del worksheet
+            if workbook:
+                del workbook
+            # Không xóa excel object để không ảnh hưởng đến các workbook khác
+
+            # Giải phóng COM objects của workbook cụ thể
+            import gc
+
+            gc.collect()
+
+        except Exception as cleanup_error:
+            print(f"Lỗi khi dọn dẹp tiến trình ngầm cho {file_name}: {cleanup_error}")
+
     return fs_dict
