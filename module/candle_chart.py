@@ -30,8 +30,9 @@ def _get_style_for_column(col_name):
         "open": {"color": "#C71585", "dash": "dash", "width": 1.5, "line_shape": "hv"},
         "prev": {"color": "#808080", "dash": "dash", "width": 1.5, "line_shape": "hv"},
         "MFIBO": {"color": "#DFBD01", "dash": "dot", "width": 1.5, "line_shape": "hv"},
-        "QFIBO": {"color": "#FB8C00", "dash": "dot", "width": 1.5, "line_shape": "hv"},
-        "YFIBO": {"color": "#E65100", "dash": "dot", "width": 1.5, "line_shape": "hv"},
+        "YFIBO": {"color": "#DFBD01", "dash": "dot", "width": 1.5, "line_shape": "hv"},
+        "MPIVOT": {"color": "#E61300", "dash": "dot", "width": 1.5, "line_shape": "hv"},
+        "YPIVOT": {"color": "#E61300", "dash": "dot", "width": 1.5, "line_shape": "hv"},
     }
     for key, style in style_mapping.items():
         if key in col_name:
@@ -504,6 +505,6 @@ def create_financial_chart(
         # Ghi lại từ dạng bytes đã tạo để không phải render lần 2
         with open(full_path, "wb") as f:
             f.write(image_bytes)
-            
+
     # Trả về 2 giá trị như code gốc của bạn mong đợi
     return fig, image_bytes

@@ -1,0 +1,996 @@
+﻿ticker,industry,name,period,unit,value,group
+VIX,Dịch vụ tài chính,ROE,Q2-2025,%,0.1241,Hiệu quả
+VND,Dịch vụ tài chính,ROE,Q2-2025,%,0.0764,Hiệu quả
+VCI,Dịch vụ tài chính,ROE,Q2-2025,%,0.0783,Hiệu quả
+HCM,Dịch vụ tài chính,ROE,Q2-2025,%,0.0847,Hiệu quả
+MBS,Dịch vụ tài chính,ROE,Q2-2025,%,0.1208,Hiệu quả
+SHS,Dịch vụ tài chính,ROE,Q2-2025,%,0.0912,Hiệu quả
+FTS,Dịch vụ tài chính,ROE,Q2-2025,%,0.1094,Hiệu quả
+BSI,Dịch vụ tài chính,ROE,Q2-2025,%,0.0675,Hiệu quả
+CTS,Dịch vụ tài chính,ROE,Q2-2025,%,0.1682,Hiệu quả
+VDS,Dịch vụ tài chính,ROE,Q2-2025,%,0.0207,Hiệu quả
+ORS,Dịch vụ tài chính,ROE,Q2-2025,%,0.0234,Hiệu quả
+BVS,Dịch vụ tài chính,ROE,Q2-2025,%,0.0839,Hiệu quả
+VIX,Dịch vụ tài chính,ROE,Q1-2025,%,0.0608,Hiệu quả
+VND,Dịch vụ tài chính,ROE,Q1-2025,%,0.0775,Hiệu quả
+VCI,Dịch vụ tài chính,ROE,Q1-2025,%,0.0937,Hiệu quả
+HCM,Dịch vụ tài chính,ROE,Q1-2025,%,0.0954,Hiệu quả
+MBS,Dịch vụ tài chính,ROE,Q1-2025,%,0.1293,Hiệu quả
+SHS,Dịch vụ tài chính,ROE,Q1-2025,%,0.0822,Hiệu quả
+FTS,Dịch vụ tài chính,ROE,Q1-2025,%,0.1365,Hiệu quả
+BSI,Dịch vụ tài chính,ROE,Q1-2025,%,0.0711,Hiệu quả
+CTS,Dịch vụ tài chính,ROE,Q1-2025,%,0.1059,Hiệu quả
+VDS,Dịch vụ tài chính,ROE,Q1-2025,%,0.0687,Hiệu quả
+ORS,Dịch vụ tài chính,ROE,Q1-2025,%,0.0771,Hiệu quả
+BVS,Dịch vụ tài chính,ROE,Q1-2025,%,0.0755,Hiệu quả
+VIX,Dịch vụ tài chính,ROE,Q4-2024,%,0.0533,Hiệu quả
+VND,Dịch vụ tài chính,ROE,Q4-2024,%,0.0949,Hiệu quả
+VCI,Dịch vụ tài chính,ROE,Q4-2024,%,0.0897,Hiệu quả
+HCM,Dịch vụ tài chính,ROE,Q4-2024,%,0.1109,Hiệu quả
+MBS,Dịch vụ tài chính,ROE,Q4-2024,%,0.1245,Hiệu quả
+SHS,Dịch vụ tài chính,ROE,Q4-2024,%,0.0946,Hiệu quả
+FTS,Dịch vụ tài chính,ROE,Q4-2024,%,0.1462,Hiệu quả
+BSI,Dịch vụ tài chính,ROE,Q4-2024,%,0.0848,Hiệu quả
+CTS,Dịch vụ tài chính,ROE,Q4-2024,%,0.1077,Hiệu quả
+VDS,Dịch vụ tài chính,ROE,Q4-2024,%,0.1128,Hiệu quả
+ORS,Dịch vụ tài chính,ROE,Q4-2024,%,0.1174,Hiệu quả
+BVS,Dịch vụ tài chính,ROE,Q4-2024,%,0.0835,Hiệu quả
+VIX,Dịch vụ tài chính,ROE,Q3-2024,%,0.0693,Hiệu quả
+VND,Dịch vụ tài chính,ROE,Q3-2024,%,0.13,Hiệu quả
+VCI,Dịch vụ tài chính,ROE,Q3-2024,%,0.0987,Hiệu quả
+HCM,Dịch vụ tài chính,ROE,Q3-2024,%,0.1055,Hiệu quả
+MBS,Dịch vụ tài chính,ROE,Q3-2024,%,0.1375,Hiệu quả
+SHS,Dịch vụ tài chính,ROE,Q3-2024,%,0.0893,Hiệu quả
+FTS,Dịch vụ tài chính,ROE,Q3-2024,%,0.118,Hiệu quả
+BSI,Dịch vụ tài chính,ROE,Q3-2024,%,0.0797,Hiệu quả
+CTS,Dịch vụ tài chính,ROE,Q3-2024,%,0.0962,Hiệu quả
+VDS,Dịch vụ tài chính,ROE,Q3-2024,%,0.1521,Hiệu quả
+ORS,Dịch vụ tài chính,ROE,Q3-2024,%,0.107,Hiệu quả
+BVS,Dịch vụ tài chính,ROE,Q3-2024,%,0.0792,Hiệu quả
+VIX,Dịch vụ tài chính,ROE,Q2-2024,%,0.076,Hiệu quả
+VND,Dịch vụ tài chính,ROE,Q2-2024,%,0.1454,Hiệu quả
+VCI,Dịch vụ tài chính,ROE,Q2-2024,%,0.0983,Hiệu quả
+HCM,Dịch vụ tài chính,ROE,Q2-2024,%,0.1102,Hiệu quả
+MBS,Dịch vụ tài chính,ROE,Q2-2024,%,0.1439,Hiệu quả
+SHS,Dịch vụ tài chính,ROE,Q2-2024,%,0.1035,Hiệu quả
+FTS,Dịch vụ tài chính,ROE,Q2-2024,%,0.1485,Hiệu quả
+BSI,Dịch vụ tài chính,ROE,Q2-2024,%,0.0924,Hiệu quả
+CTS,Dịch vụ tài chính,ROE,Q2-2024,%,0.1058,Hiệu quả
+VDS,Dịch vụ tài chính,ROE,Q2-2024,%,0.1661,Hiệu quả
+ORS,Dịch vụ tài chính,ROE,Q2-2024,%,0.0953,Hiệu quả
+BVS,Dịch vụ tài chính,ROE,Q2-2024,%,0.0806,Hiệu quả
+VIX,Dịch vụ tài chính,ROA,Q2-2025,%,0.0991,Hiệu quả
+VND,Dịch vụ tài chính,ROA,Q2-2025,%,0.0325,Hiệu quả
+VCI,Dịch vụ tài chính,ROA,Q2-2025,%,0.0394,Hiệu quả
+HCM,Dịch vụ tài chính,ROA,Q2-2025,%,0.0268,Hiệu quả
+MBS,Dịch vụ tài chính,ROA,Q2-2025,%,0.0372,Hiệu quả
+SHS,Dịch vụ tài chính,ROA,Q2-2025,%,0.069,Hiệu quả
+FTS,Dịch vụ tài chính,ROA,Q2-2025,%,0.0449,Hiệu quả
+BSI,Dịch vụ tài chính,ROA,Q2-2025,%,0.0283,Hiệu quả
+CTS,Dịch vụ tài chính,ROA,Q2-2025,%,0.0411,Hiệu quả
+VDS,Dịch vụ tài chính,ROA,Q2-2025,%,0.009,Hiệu quả
+ORS,Dịch vụ tài chính,ROA,Q2-2025,%,0.0079,Hiệu quả
+BVS,Dịch vụ tài chính,ROA,Q2-2025,%,0.0382,Hiệu quả
+VIX,Dịch vụ tài chính,ROA,Q1-2025,%,0.0506,Hiệu quả
+VND,Dịch vụ tài chính,ROA,Q1-2025,%,0.0325,Hiệu quả
+VCI,Dịch vụ tài chính,ROA,Q1-2025,%,0.043,Hiệu quả
+HCM,Dịch vụ tài chính,ROA,Q1-2025,%,0.0324,Hiệu quả
+MBS,Dịch vụ tài chính,ROA,Q1-2025,%,0.0406,Hiệu quả
+SHS,Dịch vụ tài chính,ROA,Q1-2025,%,0.0677,Hiệu quả
+FTS,Dịch vụ tài chính,ROA,Q1-2025,%,0.0579,Hiệu quả
+BSI,Dịch vụ tài chính,ROA,Q1-2025,%,0.0327,Hiệu quả
+CTS,Dịch vụ tài chính,ROA,Q1-2025,%,0.0267,Hiệu quả
+VDS,Dịch vụ tài chính,ROA,Q1-2025,%,0.0302,Hiệu quả
+ORS,Dịch vụ tài chính,ROA,Q1-2025,%,0.0264,Hiệu quả
+BVS,Dịch vụ tài chính,ROA,Q1-2025,%,0.0333,Hiệu quả
+VIX,Dịch vụ tài chính,ROA,Q4-2024,%,0.0462,Hiệu quả
+VND,Dịch vụ tài chính,ROA,Q4-2024,%,0.0399,Hiệu quả
+VCI,Dịch vụ tài chính,ROA,Q4-2024,%,0.0415,Hiệu quả
+HCM,Dịch vụ tài chính,ROA,Q4-2024,%,0.0422,Hiệu quả
+MBS,Dịch vụ tài chính,ROA,Q4-2024,%,0.0397,Hiệu quả
+SHS,Dịch vụ tài chính,ROA,Q4-2024,%,0.0797,Hiệu quả
+FTS,Dịch vụ tài chính,ROA,Q4-2024,%,0.0631,Hiệu quả
+BSI,Dịch vụ tài chính,ROA,Q4-2024,%,0.0443,Hiệu quả
+CTS,Dịch vụ tài chính,ROA,Q4-2024,%,0.0269,Hiệu quả
+VDS,Dịch vụ tài chính,ROA,Q4-2024,%,0.0495,Hiệu quả
+ORS,Dịch vụ tài chính,ROA,Q4-2024,%,0.0418,Hiệu quả
+BVS,Dịch vụ tài chính,ROA,Q4-2024,%,0.0343,Hiệu quả
+VIX,Dịch vụ tài chính,ROA,Q3-2024,%,0.0616,Hiệu quả
+VND,Dịch vụ tài chính,ROA,Q3-2024,%,0.0533,Hiệu quả
+VCI,Dịch vụ tài chính,ROA,Q3-2024,%,0.0406,Hiệu quả
+HCM,Dịch vụ tài chính,ROA,Q3-2024,%,0.0402,Hiệu quả
+MBS,Dịch vụ tài chính,ROA,Q3-2024,%,0.0436,Hiệu quả
+SHS,Dịch vụ tài chính,ROA,Q3-2024,%,0.0789,Hiệu quả
+FTS,Dịch vụ tài chính,ROA,Q3-2024,%,0.0526,Hiệu quả
+BSI,Dịch vụ tài chính,ROA,Q3-2024,%,0.0393,Hiệu quả
+CTS,Dịch vụ tài chính,ROA,Q3-2024,%,0.0251,Hiệu quả
+VDS,Dịch vụ tài chính,ROA,Q3-2024,%,0.068,Hiệu quả
+ORS,Dịch vụ tài chính,ROA,Q3-2024,%,0.0381,Hiệu quả
+BVS,Dịch vụ tài chính,ROA,Q3-2024,%,0.0321,Hiệu quả
+VIX,Dịch vụ tài chính,ROA,Q2-2024,%,0.0698,Hiệu quả
+VND,Dịch vụ tài chính,ROA,Q2-2024,%,0.057,Hiệu quả
+VCI,Dịch vụ tài chính,ROA,Q2-2024,%,0.0406,Hiệu quả
+HCM,Dịch vụ tài chính,ROA,Q2-2024,%,0.0476,Hiệu quả
+MBS,Dịch vụ tài chính,ROA,Q2-2024,%,0.0478,Hiệu quả
+SHS,Dịch vụ tài chính,ROA,Q2-2024,%,0.0937,Hiệu quả
+FTS,Dịch vụ tài chính,ROA,Q2-2024,%,0.0674,Hiệu quả
+BSI,Dịch vụ tài chính,ROA,Q2-2024,%,0.0472,Hiệu quả
+CTS,Dịch vụ tài chính,ROA,Q2-2024,%,0.0279,Hiệu quả
+VDS,Dịch vụ tài chính,ROA,Q2-2024,%,0.0737,Hiệu quả
+ORS,Dịch vụ tài chính,ROA,Q2-2024,%,0.0344,Hiệu quả
+BVS,Dịch vụ tài chính,ROA,Q2-2024,%,0.0322,Hiệu quả
+VIX,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.506,Hiệu quả
+VND,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.2751,Hiệu quả
+VCI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.229,Hiệu quả
+HCM,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.1977,Hiệu quả
+MBS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.2759,Hiệu quả
+SHS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.493,Hiệu quả
+FTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.4146,Hiệu quả
+BSI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.2324,Hiệu quả
+CTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.2656,Hiệu quả
+VDS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.0772,Hiệu quả
+ORS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.051,Hiệu quả
+BVS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2025,%,0.2378,Hiệu quả
+VIX,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.3556,Hiệu quả
+VND,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.2855,Hiệu quả
+VCI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.2695,Hiệu quả
+HCM,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.2242,Hiệu quả
+MBS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.2664,Hiệu quả
+SHS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.4755,Hiệu quả
+FTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.477,Hiệu quả
+BSI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.2552,Hiệu quả
+CTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.2026,Hiệu quả
+VDS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.2157,Hiệu quả
+ORS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.1452,Hiệu quả
+BVS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q1-2025,%,0.2003,Hiệu quả
+VIX,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.3609,Hiệu quả
+VND,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.3227,Hiệu quả
+VCI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.2464,Hiệu quả
+HCM,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.2431,Hiệu quả
+MBS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.2383,Hiệu quả
+SHS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.51,Hiệu quả
+FTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.4943,Hiệu quả
+BSI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.2928,Hiệu quả
+CTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.2239,Hiệu quả
+VDS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.2949,Hiệu quả
+ORS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.1825,Hiệu quả
+BVS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q4-2024,%,0.2019,Hiệu quả
+VIX,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.4542,Hiệu quả
+VND,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.3784,Hiệu quả
+VCI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.2328,Hiệu quả
+HCM,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.2507,Hiệu quả
+MBS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.2588,Hiệu quả
+SHS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.6932,Hiệu quả
+FTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.4451,Hiệu quả
+BSI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.2831,Hiệu quả
+CTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.1698,Hiệu quả
+VDS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.3894,Hiệu quả
+ORS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.1707,Hiệu quả
+BVS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q3-2024,%,0.1867,Hiệu quả
+VIX,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.4817,Hiệu quả
+VND,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.3706,Hiệu quả
+VCI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.2438,Hiệu quả
+HCM,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.2701,Hiệu quả
+MBS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.2802,Hiệu quả
+SHS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.6844,Hiệu quả
+FTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.4975,Hiệu quả
+BSI,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.3067,Hiệu quả
+CTS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.1894,Hiệu quả
+VDS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.3961,Hiệu quả
+ORS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.1313,Hiệu quả
+BVS,Dịch vụ tài chính,Tỷ suất lợi nhuận thuần,Q2-2024,%,0.1825,Hiệu quả
+VIX,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,4.2164,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,0.1936,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,0.2662,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,-0.0187,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,-0.103,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,0.2607,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,-0.2165,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,0.194,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,1.1127,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,-0.431,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,-0.479,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2025,%,-0.1498,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,1.7169,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,-0.0916,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,0.0553,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,0.1582,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,-0.007,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,-0.0054,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,0.0429,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,-0.0414,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,0.4355,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,-0.4142,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,-0.0682,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q1-2025,%,-0.242,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,0.5967,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,-0.3727,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,0.2399,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,0.3715,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,0.4037,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,61.6488,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,0.7553,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,0.1716,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,-0.5722,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,-0.1491,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,-0.1283,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q4-2024,%,-0.1062,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,0.7143,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,-0.2783,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,0.4615,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,0.3813,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,0.4941,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,-0.4291,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,-0.3091,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,-0.1733,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,0.1795,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,-0.1062,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,-0.1407,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q3-2024,%,-0.1245,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,-0.4492,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,-0.0907,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,0.8285,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,0.8619,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,1.2027,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,0.7846,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,0.1748,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,0.3407,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,-0.2773,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,0.6632,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,-0.3942,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng doanh thu thuần,Q2-2024,%,0.3345,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,9.5149,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,0.0685,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,-0.3413,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,-0.3861,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,0.02,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,0.2956,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,-0.6223,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,-0.1122,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,7.4135,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,-1.0923,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,-2.0491,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2025,%,0.5019,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,1.2988,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,-0.3801,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,0.4911,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,-0.1811,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,0.4735,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,-0.2626,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,-0.082,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,-0.4086,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,0.0667,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,-0.8419,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,-1.0954,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q1-2025,%,-0.2489,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,-0.4132,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,-0.6936,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,0.7761,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,0.2664,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,-0.0437,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,0.323,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,2.7954,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,0.4155,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,0.7818,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,-1.3727,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,0.2028,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q4-2024,%,0.1969,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,0.3322,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,-0.2097,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,0.2031,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,0.0387,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,0.0759,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,-0.653,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,-0.5607,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,-0.4294,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,-0.2216,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,-0.1717,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,1.2326,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q3-2024,%,-0.025,Tăng trưởng
+VIX,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,-0.7811,Tăng trưởng
+VND,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,-0.196,Tăng trưởng
+VCI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,1.3885,Tăng trưởng
+HCM,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,0.9932,Tăng trưởng
+MBS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,0.7536,Tăng trưởng
+SHS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,1.5114,Tăng trưởng
+FTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,0.1456,Tăng trưởng
+BSI,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,-0.0713,Tăng trưởng
+CTS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,-0.7269,Tăng trưởng
+VDS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,0.1454,Tăng trưởng
+ORS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,1.0455,Tăng trưởng
+BVS,Dịch vụ tài chính,Tăng trưởng lợi nhuận thuần,Q2-2024,%,-0.4028,Tăng trưởng
+VIX,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,37.62,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,144.09,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,76.04,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,243.06,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,247.45,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,54.97,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,166.24,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,184.63,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,320.45,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,141.91,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,189.57,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2025,Lần,130.91,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,25.54,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,149.24,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,88.61,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,195.44,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,212.14,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,31.11,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,150.68,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,153.64,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,310.7,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,123.06,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,219.21,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng nợ/VCSH,Q1-2025,Lần,132.62,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,22.2,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,124.67,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,105.43,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,200.07,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,220.36,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,25.12,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,137.0,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,103.78,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,286.08,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,127.77,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,185.64,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng nợ/VCSH,Q4-2024,Lần,127.39,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,14.34,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,122.45,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,136.23,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,225.3,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,216.61,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,17.2,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,119.77,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,111.47,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,319.37,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,114.3,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,196.16,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng nợ/VCSH,Q3-2024,Lần,86.66,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,16.37,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,161.24,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,160.83,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,160.29,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,225.3,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,11.62,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,134.9,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,100.96,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,269.23,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,127.95,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,164.52,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng nợ/VCSH,Q2-2024,Lần,160.33,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,0.35,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,1.33,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,0.69,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,2.39,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,2.16,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,0.43,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,1.62,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,1.56,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,3.15,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,1.38,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,1.71,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2025,Lần,1.24,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,0.24,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,1.4,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,0.82,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,1.89,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,1.97,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,0.26,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,1.43,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,1.22,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,3.0,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,1.2,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,2.07,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q1-2025,Lần,1.26,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,0.18,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,1.16,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,0.97,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,1.96,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,2.05,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,0.19,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,1.33,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,0.96,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,2.81,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,1.24,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,1.66,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q4-2024,Lần,1.17,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,0.12,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,1.12,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,1.25,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,2.2,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,2.04,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,0.14,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,1.1,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,0.87,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,2.93,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,1.1,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,1.78,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q3-2024,Lần,0.76,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,0.15,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,1.29,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,1.41,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,1.53,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,2.12,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,0.08,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,1.06,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,0.82,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,2.53,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,1.18,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,1.53,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/VCSH,Q2-2024,Lần,1.48,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.25,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.55,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.39,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.7,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.62,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.28,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.61,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.55,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.75,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.57,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.59,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2025,Lần,0.54,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.19,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.56,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.43,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.64,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.63,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.2,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.57,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.48,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.73,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.54,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.65,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q1-2025,Lần,0.54,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.15,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.52,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.47,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.65,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.64,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.15,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.56,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.47,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.73,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.54,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.58,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q4-2024,Lần,0.52,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.1,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.5,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.53,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.68,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.64,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.12,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.5,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.41,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.7,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.51,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.6,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q3-2024,Lần,0.41,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.13,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.49,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.54,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.59,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.65,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.07,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.45,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.41,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.69,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.52,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.58,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tổng vốn vay/Tổng TS,Q2-2024,Lần,0.57,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,3.84,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,1.6,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,2.4,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,1.4,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,1.48,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,2.88,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,1.58,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,1.5,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,1.3,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,1.44,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,2.6,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2025,Lần,1.62,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,5.05,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,1.57,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,2.21,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,1.5,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,1.56,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,4.33,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,1.64,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,1.58,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,1.31,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,1.75,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,2.23,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q1-2025,Lần,1.6,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,5.63,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,1.76,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,2.03,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,1.49,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,1.54,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,5.11,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,1.7,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,1.86,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,1.34,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,1.72,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,2.61,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q4-2024,Lần,1.63,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,8.36,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,1.77,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,1.82,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,1.44,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,1.57,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,7.07,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,1.8,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,1.8,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,1.31,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,1.81,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,2.49,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q3-2024,Lần,2.03,Sức khỏe tài chính
+VIX,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,7.41,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.58,Sức khỏe tài chính
+VCI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.69,Sức khỏe tài chính
+HCM,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.61,Sức khỏe tài chính
+MBS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.56,Sức khỏe tài chính
+SHS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,10.58,Sức khỏe tài chính
+FTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.71,Sức khỏe tài chính
+BSI,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.94,Sức khỏe tài chính
+CTS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.36,Sức khỏe tài chính
+VDS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.7,Sức khỏe tài chính
+ORS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,3.14,Sức khỏe tài chính
+BVS,Dịch vụ tài chính,Tỷ lệ thanh toán hiện thời,Q2-2024,Lần,1.55,Sức khỏe tài chính
+VND,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.6796,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.4649,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.4671,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.4336,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.555,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.5512,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.3164,So với kế hoạch
+ORS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.5351,So với kế hoạch
+BVS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2025,%,0.4193,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q1-2025,%,0.1968,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q1-2025,%,0.2252,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q1-2025,%,0.1985,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q1-2025,%,0.2483,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q1-2025,%,0.3121,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q1-2025,%,0.1528,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q4-2024,%,1.4717,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q4-2024,%,1.3439,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q4-2024,%,1.12,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q4-2024,%,1.0795,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q4-2024,%,1.3583,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q4-2024,%,1.0044,So với kế hoạch
+ORS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q4-2024,%,0.814,So với kế hoạch
+BVS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q4-2024,%,1.1295,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q3-2024,%,1.0739,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q3-2024,%,0.9726,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q3-2024,%,0.848,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q3-2024,%,0.7541,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q3-2024,%,0.9812,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q3-2024,%,0.8474,So với kế hoạch
+ORS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q3-2024,%,0.6191,So với kế hoạch
+BVS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q3-2024,%,0.8563,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2024,%,0.6858,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2024,%,0.615,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2024,%,0.5589,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2024,%,0.6044,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2024,%,0.7153,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2024,%,0.617,So với kế hoạch
+ORS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2024,%,0.4069,So với kế hoạch
+BVS,Dịch vụ tài chính,Tỷ lệ hoàn thành doanh thu,Q2-2024,%,0.6297,So với kế hoạch
+VIX,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,1.3949,So với kế hoạch
+VND,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.4082,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.4214,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.3269,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.4712,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.6588,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.534,So với kế hoạch
+BSI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.4085,So với kế hoạch
+CTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,1.1841,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.0274,So với kế hoạch
+ORS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,-1.0153,So với kế hoạch
+BVS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2025,%,0.5757,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q1-2025,%,0.2596,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q1-2025,%,0.1768,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q1-2025,%,0.2587,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q1-2025,%,0.2399,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q1-2025,%,0.3824,So với kế hoạch
+BSI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q1-2025,%,0.1811,So với kế hoạch
+CTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q1-2025,%,0.4454,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q1-2025,%,0.0649,So với kế hoạch
+VIX,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,0.6281,So với kế hoạch
+VND,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,0.8507,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,1.6262,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,0.8962,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,0.9994,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,1.2262,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,1.6884,So với kế hoạch
+BSI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,0.9388,So với kế hoạch
+CTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,1.0308,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,1.0061,So với kế hoạch
+ORS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,1.3239,So với kế hoạch
+BVS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q4-2024,%,1.1047,So với kế hoạch
+VIX,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,0.5219,So với kế hoạch
+VND,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,0.7263,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,1.2363,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,0.7005,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,0.7772,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,0.9411,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,1.2137,So với kế hoạch
+BSI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,0.7317,So với kế hoạch
+CTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,0.7713,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,1.1025,So với kế hoạch
+ORS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,1.0761,So với kế hoạch
+BVS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q3-2024,%,0.7609,So với kế hoạch
+VIX,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.2706,So với kế hoạch
+VND,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.4762,So với kế hoạch
+VCI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.8517,So với kế hoạch
+HCM,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.5088,So với kế hoạch
+MBS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.5367,So với kế hoạch
+SHS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.8578,So với kế hoạch
+FTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.9736,So với kế hoạch
+BSI,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.5726,So với kế hoạch
+CTS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.5363,So với kế hoạch
+VDS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.8337,So với kế hoạch
+ORS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.6136,So với kế hoạch
+BVS,Dịch vụ tài chính,Tỷ lệ hoàn thành LNST,Q2-2024,%,0.5642,So với kế hoạch
+VIX,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2025,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất cổ tức,Q1-2025,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0175,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0192,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.068,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất cổ tức,Q4-2024,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0124,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0176,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất cổ tức,Q3-2024,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0111,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất cổ tức,Q2-2024,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2025,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q1-2025,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.5125,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.3467,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.8007,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q4-2024,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.2819,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.3553,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q3-2024,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+VND,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+VCI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.2269,Cổ tức
+HCM,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+MBS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+SHS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+FTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+BSI,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+CTS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+VDS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+ORS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+BVS,Dịch vụ tài chính,Tỷ suất chi trả cổ tức,Q2-2024,%,0.0,Cổ tức
+VIX,Dịch vụ tài chính,P/E,Q2-2025,Lần,24.95,Định giá
+VND,Dịch vụ tài chính,P/E,Q2-2025,Lần,24.82,Định giá
+VCI,Dịch vụ tài chính,P/E,Q2-2025,Lần,33.08,Định giá
+HCM,Dịch vụ tài chính,P/E,Q2-2025,Lần,25.41,Định giá
+MBS,Dịch vụ tài chính,P/E,Q2-2025,Lần,28.37,Định giá
+SHS,Dịch vụ tài chính,P/E,Q2-2025,Lần,22.04,Định giá
+FTS,Dịch vụ tài chính,P/E,Q2-2025,Lần,30.57,Định giá
+BSI,Dịch vụ tài chính,P/E,Q2-2025,Lần,36.71,Định giá
+CTS,Dịch vụ tài chính,P/E,Q2-2025,Lần,23.38,Định giá
+VDS,Dịch vụ tài chính,P/E,Q2-2025,Lần,91.68,Định giá
+ORS,Dịch vụ tài chính,P/E,Q2-2025,Lần,50.38,Định giá
+BVS,Dịch vụ tài chính,P/E,Q2-2025,Lần,14.22,Định giá
+VIX,Dịch vụ tài chính,P/E,Q1-2025,Lần,26.5,Định giá
+VND,Dịch vụ tài chính,P/E,Q1-2025,Lần,18.18,Định giá
+VCI,Dịch vụ tài chính,P/E,Q1-2025,Lần,26.03,Định giá
+HCM,Dịch vụ tài chính,P/E,Q1-2025,Lần,18.53,Định giá
+MBS,Dịch vụ tài chính,P/E,Q1-2025,Lần,17.88,Định giá
+SHS,Dịch vụ tài chính,P/E,Q1-2025,Lần,16.3,Định giá
+FTS,Dịch vụ tài chính,P/E,Q1-2025,Lần,24.98,Định giá
+BSI,Dịch vụ tài chính,P/E,Q1-2025,Lần,31.06,Định giá
+CTS,Dịch vụ tài chính,P/E,Q1-2025,Lần,27.6,Định giá
+VDS,Dịch vụ tài chính,P/E,Q1-2025,Lần,24.1,Định giá
+ORS,Dịch vụ tài chính,P/E,Q1-2025,Lần,12.17,Định giá
+BVS,Dịch vụ tài chính,P/E,Q1-2025,Lần,13.79,Định giá
+VIX,Dịch vụ tài chính,P/E,Q4-2024,Lần,20.61,Định giá
+VND,Dịch vụ tài chính,P/E,Q4-2024,Lần,12.69,Định giá
+VCI,Dịch vụ tài chính,P/E,Q4-2024,Lần,24.1,Định giá
+HCM,Dịch vụ tài chính,P/E,Q4-2024,Lần,16.58,Định giá
+MBS,Dịch vụ tài chính,P/E,Q4-2024,Lần,16.74,Định giá
+SHS,Dịch vụ tài chính,P/E,Q4-2024,Lần,11.77,Định giá
+FTS,Dịch vụ tài chính,P/E,Q4-2024,Lần,21.08,Định giá
+BSI,Dịch vụ tài chính,P/E,Q4-2024,Lần,26.78,Định giá
+CTS,Dịch vụ tài chính,P/E,Q4-2024,Lần,21.5,Định giá
+VDS,Dịch vụ tài chính,P/E,Q4-2024,Lần,11.53,Định giá
+ORS,Dịch vụ tài chính,P/E,Q4-2024,Lần,6.49,Định giá
+BVS,Dịch vụ tài chính,P/E,Q4-2024,Lần,11.23,Định giá
+VIX,Dịch vụ tài chính,P/E,Q3-2024,Lần,11.7,Định giá
+VND,Dịch vụ tài chính,P/E,Q3-2024,Lần,6.96,Định giá
+VCI,Dịch vụ tài chính,P/E,Q3-2024,Lần,23.7,Định giá
+HCM,Dịch vụ tài chính,P/E,Q3-2024,Lần,17.69,Định giá
+MBS,Dịch vụ tài chính,P/E,Q3-2024,Lần,15.93,Định giá
+SHS,Dịch vụ tài chính,P/E,Q3-2024,Lần,10.19,Định giá
+FTS,Dịch vụ tài chính,P/E,Q3-2024,Lần,27.47,Định giá
+BSI,Dịch vụ tài chính,P/E,Q3-2024,Lần,25.51,Định giá
+CTS,Dịch vụ tài chính,P/E,Q3-2024,Lần,24.42,Định giá
+VDS,Dịch vụ tài chính,P/E,Q3-2024,Lần,11.34,Định giá
+ORS,Dịch vụ tài chính,P/E,Q3-2024,Lần,11.21,Định giá
+BVS,Dịch vụ tài chính,P/E,Q3-2024,Lần,13.21,Định giá
+VIX,Dịch vụ tài chính,P/E,Q2-2024,Lần,15.93,Định giá
+VND,Dịch vụ tài chính,P/E,Q2-2024,Lần,8.25,Định giá
+VCI,Dịch vụ tài chính,P/E,Q2-2024,Lần,26.43,Định giá
+HCM,Dịch vụ tài chính,P/E,Q2-2024,Lần,17.7,Định giá
+MBS,Dịch vụ tài chính,P/E,Q2-2024,Lần,17.97,Định giá
+SHS,Dịch vụ tài chính,P/E,Q2-2024,Lần,11.51,Định giá
+FTS,Dịch vụ tài chính,P/E,Q2-2024,Lần,23.88,Định giá
+BSI,Dịch vụ tài chính,P/E,Q2-2024,Lần,26.19,Định giá
+CTS,Dịch vụ tài chính,P/E,Q2-2024,Lần,26.83,Định giá
+VDS,Dịch vụ tài chính,P/E,Q2-2024,Lần,11.65,Định giá
+ORS,Dịch vụ tài chính,P/E,Q2-2024,Lần,12.65,Định giá
+BVS,Dịch vụ tài chính,P/E,Q2-2024,Lần,15.86,Định giá
+VIX,Dịch vụ tài chính,P/B,Q2-2025,Lần,3.0,Định giá
+VND,Dịch vụ tài chính,P/B,Q2-2025,Lần,1.92,Định giá
+VCI,Dịch vụ tài chính,P/B,Q2-2025,Lần,2.63,Định giá
+HCM,Dịch vụ tài chính,P/B,Q2-2025,Lần,3.08,Định giá
+MBS,Dịch vụ tài chính,P/B,Q2-2025,Lần,3.43,Định giá
+SHS,Dịch vụ tài chính,P/B,Q2-2025,Lần,2.02,Định giá
+FTS,Dịch vụ tài chính,P/B,Q2-2025,Lần,3.37,Định giá
+BSI,Dịch vụ tài chính,P/B,Q2-2025,Lần,2.42,Định giá
+CTS,Dịch vụ tài chính,P/B,Q2-2025,Lần,3.66,Định giá
+VDS,Dịch vụ tài chính,P/B,Q2-2025,Lần,1.9,Định giá
+ORS,Dịch vụ tài chính,P/B,Q2-2025,Lần,1.2,Định giá
+BVS,Dịch vụ tài chính,P/B,Q2-2025,Lần,1.16,Định giá
+VIX,Dịch vụ tài chính,P/B,Q1-2025,Lần,1.65,Định giá
+VND,Dịch vụ tài chính,P/B,Q1-2025,Lần,1.41,Định giá
+VCI,Dịch vụ tài chính,P/B,Q1-2025,Lần,2.4,Định giá
+HCM,Dịch vụ tài chính,P/B,Q1-2025,Lần,2.61,Định giá
+MBS,Dịch vụ tài chính,P/B,Q1-2025,Lần,2.35,Định giá
+SHS,Dịch vụ tài chính,P/B,Q1-2025,Lần,1.29,Định giá
+FTS,Dịch vụ tài chính,P/B,Q1-2025,Lần,3.34,Định giá
+BSI,Dịch vụ tài chính,P/B,Q1-2025,Lần,2.16,Định giá
+CTS,Dịch vụ tài chính,P/B,Q1-2025,Lần,2.78,Định giá
+VDS,Dịch vụ tài chính,P/B,Q1-2025,Lần,1.63,Định giá
+ORS,Dịch vụ tài chính,P/B,Q1-2025,Lần,0.92,Định giá
+BVS,Dịch vụ tài chính,P/B,Q1-2025,Lần,1.02,Định giá
+VIX,Dịch vụ tài chính,P/B,Q4-2024,Lần,1.15,Định giá
+VND,Dịch vụ tài chính,P/B,Q4-2024,Lần,1.21,Định giá
+VCI,Dịch vụ tài chính,P/B,Q4-2024,Lần,2.06,Định giá
+HCM,Dịch vụ tài chính,P/B,Q4-2024,Lần,1.8,Định giá
+MBS,Dịch vụ tài chính,P/B,Q4-2024,Lần,2.2,Định giá
+SHS,Dịch vụ tài chính,P/B,Q4-2024,Lần,1.07,Định giá
+FTS,Dịch vụ tài chính,P/B,Q4-2024,Lần,2.93,Định giá
+BSI,Dịch vụ tài chính,P/B,Q4-2024,Lần,2.19,Định giá
+CTS,Dịch vụ tài chính,P/B,Q4-2024,Lần,2.21,Định giá
+VDS,Dịch vụ tài chính,P/B,Q4-2024,Lần,1.23,Định giá
+ORS,Dịch vụ tài chính,P/B,Q4-2024,Lần,0.67,Định giá
+BVS,Dịch vụ tài chính,P/B,Q4-2024,Lần,0.91,Định giá
+VIX,Dịch vụ tài chính,P/B,Q3-2024,Lần,0.87,Định giá
+VND,Dịch vụ tài chính,P/B,Q3-2024,Lần,0.93,Định giá
+VCI,Dịch vụ tài chính,P/B,Q3-2024,Lần,2.68,Định giá
+HCM,Dịch vụ tài chính,P/B,Q3-2024,Lần,2.03,Định giá
+MBS,Dịch vụ tài chính,P/B,Q3-2024,Lần,2.5,Định giá
+SHS,Dịch vụ tài chính,P/B,Q3-2024,Lần,0.89,Định giá
+FTS,Dịch vụ tài chính,P/B,Q3-2024,Lần,3.16,Định giá
+BSI,Dịch vụ tài chính,P/B,Q3-2024,Lần,1.98,Định giá
+CTS,Dịch vụ tài chính,P/B,Q3-2024,Lần,2.27,Định giá
+VDS,Dịch vụ tài chính,P/B,Q3-2024,Lần,1.64,Định giá
+ORS,Dịch vụ tài chính,P/B,Q3-2024,Lần,1.25,Định giá
+BVS,Dịch vụ tài chính,P/B,Q3-2024,Lần,1.02,Định giá
+VIX,Dịch vụ tài chính,P/B,Q2-2024,Lần,1.84,Định giá
+VND,Dịch vụ tài chính,P/B,Q2-2024,Lần,1.31,Định giá
+VCI,Dịch vụ tài chính,P/B,Q2-2024,Lần,2.34,Định giá
+HCM,Dịch vụ tài chính,P/B,Q2-2024,Lần,2.07,Định giá
+MBS,Dịch vụ tài chính,P/B,Q2-2024,Lần,3.02,Định giá
+SHS,Dịch vụ tài chính,P/B,Q2-2024,Lần,1.14,Định giá
+FTS,Dịch vụ tài chính,P/B,Q2-2024,Lần,3.46,Định giá
+BSI,Dịch vụ tài chính,P/B,Q2-2024,Lần,2.35,Định giá
+CTS,Dịch vụ tài chính,P/B,Q2-2024,Lần,2.75,Định giá
+VDS,Dịch vụ tài chính,P/B,Q2-2024,Lần,1.87,Định giá
+ORS,Dịch vụ tài chính,P/B,Q2-2024,Lần,1.28,Định giá
+BVS,Dịch vụ tài chính,P/B,Q2-2024,Lần,1.25,Định giá
+VIX,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,21.74,Định giá
+VND,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,22.54,Định giá
+VCI,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,22.8,Định giá
+HCM,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,49.09,Định giá
+MBS,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,22.37,Định giá
+SHS,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,20.95,Định giá
+FTS,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,36.24,Định giá
+BSI,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,30.16,Định giá
+CTS,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,20.83,Định giá
+VDS,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,84.21,Định giá
+ORS,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,10.75,Định giá
+BVS,Dịch vụ tài chính,EV/EBITDA,Q2-2025,Lần,15.48,Định giá
+VIX,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,25.77,Định giá
+VND,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,21.38,Định giá
+VCI,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,19.52,Định giá
+HCM,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,35.67,Định giá
+MBS,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,17.2,Định giá
+SHS,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,14.47,Định giá
+FTS,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,29.91,Định giá
+BSI,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,26.69,Định giá
+CTS,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,23.6,Định giá
+VDS,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,21.09,Định giá
+ORS,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,8.35,Định giá
+BVS,Dịch vụ tài chính,EV/EBITDA,Q1-2025,Lần,15.85,Định giá
+VIX,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,23.16,Định giá
+VND,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,16.15,Định giá
+VCI,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,18.67,Định giá
+HCM,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,28.08,Định giá
+MBS,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,17.4,Định giá
+SHS,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,10.28,Định giá
+FTS,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,25.26,Định giá
+BSI,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,22.78,Định giá
+CTS,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,20.1,Định giá
+VDS,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,8.01,Định giá
+ORS,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,5.74,Định giá
+BVS,Dịch vụ tài chính,EV/EBITDA,Q4-2024,Lần,13.13,Định giá
+VIX,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,11.97,Định giá
+VND,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,10.83,Định giá
+VCI,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,18.12,Định giá
+HCM,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,31.92,Định giá
+MBS,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,17.21,Định giá
+SHS,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,8.92,Định giá
+FTS,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,29.44,Định giá
+BSI,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,21.43,Định giá
+CTS,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,21.17,Định giá
+VDS,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,10.06,Định giá
+ORS,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,7.07,Định giá
+BVS,Dịch vụ tài chính,EV/EBITDA,Q3-2024,Lần,14.11,Định giá
+VIX,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,20.2,Định giá
+VND,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,10.43,Định giá
+VCI,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,17.74,Định giá
+HCM,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,28.45,Định giá
+MBS,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,18.21,Định giá
+SHS,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,8.13,Định giá
+FTS,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,25.24,Định giá
+BSI,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,20.14,Định giá
+CTS,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,19.96,Định giá
+VDS,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,9.85,Định giá
+ORS,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,6.65,Định giá
+BVS,Dịch vụ tài chính,EV/EBITDA,Q2-2024,Lần,18.94,Định giá
+VIX,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,53140616.07,Định giá
+VND,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,37600807.73,Định giá
+VCI,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,32733780.0,Định giá
+HCM,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,31318743.46,Định giá
+MBS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,25259727.65,Định giá
+SHS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,22629894.17,Định giá
+FTS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,14275717.97,Định giá
+BSI,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,12636346.06,Định giá
+CTS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,9177721.85,Định giá
+VDS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,5292540.0,Định giá
+ORS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,4569596.5,Định giá
+BVS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2025,Triệu VND,2996306.02,Định giá
+VIX,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,27029736.99,Định giá
+VND,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,28238663.29,Định giá
+VCI,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,30132420.0,Định giá
+HCM,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,26944918.94,Định giá
+MBS,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,16897096.73,Định giá
+SHS,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,15026965.3,Định giá
+FTS,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,14258393.07,Định giá
+BSI,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,11090540.62,Định giá
+CTS,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,6561592.56,Định giá
+VDS,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,4570830.0,Định giá
+ORS,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,3611997.24,Định giá
+BVS,Dịch vụ tài chính,Vốn hóa thị trường,Q1-2025,Triệu VND,2577545.18,Định giá
+VIX,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,18523117.3,Định giá
+VND,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,23823993.56,Định giá
+VCI,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,26605585.73,Định giá
+HCM,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,18755247.52,Định giá
+MBS,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,15178747.91,Định giá
+SHS,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,11953404.2,Định giá
+FTS,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,12053223.02,Định giá
+BSI,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,11063810.77,Định giá
+CTS,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,4967859.59,Định giá
+VDS,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,3402000.0,Định giá
+ORS,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,2640957.98,Định giá
+BVS,Dịch vụ tài chính,Vốn hóa thị trường,Q4-2024,Triệu VND,2245424.51,Định giá
+VIX,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,13899630.54,Định giá
+VND,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,18191483.9,Định giá
+VCI,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,23158708.23,Định giá
+HCM,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,20447179.64,Định giá
+MBS,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,15465139.38,Định giá
+SHS,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,9757880.98,Định giá
+FTS,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,12512102.07,Định giá
+BSI,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,9859282.98,Định giá
+CTS,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,5019918.0,Định giá
+VDS,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,4568400.0,Định giá
+ORS,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,4804796.32,Định giá
+BVS,Dịch vụ tài chính,Vốn hóa thị trường,Q3-2024,Triệu VND,2512565.05,Định giá
+VIX,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,16772901.49,Định giá
+VND,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,22606153.63,Định giá
+VCI,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,20738348.23,Định giá
+HCM,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,22031116.09,Định giá
+MBS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,16356793.21,Định giá
+SHS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,12522613.92,Định giá
+FTS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,13429860.17,Định giá
+BSI,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,11509932.17,Định giá
+CTS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,5919784.78,Định giá
+VDS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,4872150.0,Định giá
+ORS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,4754396.36,Định giá
+BVS,Dịch vụ tài chính,Vốn hóa thị trường,Q2-2024,Triệu VND,3032406.09,Định giá
